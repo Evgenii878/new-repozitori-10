@@ -13,6 +13,7 @@ class FreelanceServiceTest {
         int expected = 3;
         Assertions.assertEquals(expected, actual);
     }
+
     @Test
     public void testWithTwoMonyhsRest() {
         FreelanceService service = new FreelanceService();
