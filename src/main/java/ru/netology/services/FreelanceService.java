@@ -9,7 +9,7 @@ public class FreelanceService {
                 maney -= expenses;
                 maney /= 3;
                 count++;
-            }else {
+            } else {
                 maney += income;
                 maney -= expenses;
             }
